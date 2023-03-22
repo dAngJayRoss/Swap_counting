@@ -3,8 +3,4 @@
 
 void bubbleSort(int*, int);
 
-void numberOfSwaps(int*, int);
-
-void print_array(int*, int);
-
 #endif
